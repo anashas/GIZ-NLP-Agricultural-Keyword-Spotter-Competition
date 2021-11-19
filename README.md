@@ -9,4 +9,4 @@ The Notebook GIZ contains the required steps to train the model.
 
 There is also an implementation of mixup and cutmix augmentation in case you want to test them.
 
-My Profile on Zindi Platform: https://zindi.africa/users/data_scientist 
+[My Profile](https://zindi.africa/users/Anas_Hasni) on Zindi Platform. 
