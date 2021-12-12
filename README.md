@@ -1,6 +1,6 @@
 # GIZ-NLP-Agricultural-Keyword-Spotter-Competition
 
-This is an audio classification problem, you can check the website for more details: https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard
+This is an audio classification problem, you can check the [website](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)  for more details: 
 
 The function wav_to_img in utils.py is used to convert the audio files ".wav" into images by extracting the MelSpectrogram, STFT, and MFCC and concatenating the three alongside the channel axis
 so that the final image size is (224,224,3).
